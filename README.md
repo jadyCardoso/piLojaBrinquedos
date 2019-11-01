@@ -24,4 +24,3 @@ Por fim, o relatório de vendas permitirá que o usuário visualize na própria 
 
 * Java (Utilizando a biblioteca Swing);
 * MySQL;
--                                                                    .
